@@ -1,12 +1,12 @@
 # Exam-Generator
-Exam Generator was created for the Database Course, It's a PostgreSQL-managed system designed for creating exams, tailored for users such as teachers, educators, or any teaching institution.
+Exam Generator was created for a Database course as part of my Bachelor of Computer Science program. This PostgreSQL-managed system is designed to facilitate the creation of exams, catering specifically to teachers, educators, and educational institutions.
 
-Overview
+# Overview
 The Exam Generator is designed to help educators, instructors, and administrators create and manage customized exams efficiently. Developed as part of a database course project, this system uses a PostgreSQL database to store and manage a diverse set of closed and open questions, along with their corresponding answers.
 
 The program offers both manual and automatic modes for generating exams, ensuring that no question is repeated within the same test, providing a flexible and reliable test creation process.
 
-Features
+# Features
 Create and Customize Exams:
 
 Manual Mode: Allows users to manually select specific questions from the database to include in an exam.
@@ -88,7 +88,7 @@ Data Security:
 
 All operations are securely logged in the database, ensuring data integrity even in case of a system crash.
 
-**Database Structure:**
+# Database Structure:
 
 ![Screenshot 2024-08-30 164717](https://github.com/user-attachments/assets/44b2fdf7-e6fa-470d-ad13-b5008db55c72)
 
