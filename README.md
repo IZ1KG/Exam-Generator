@@ -88,7 +88,7 @@ Data Security:
 
 All operations are securely logged in the database, ensuring data integrity even in case of a system crash.
 
-Data base strcuture:
+**Database Structure:**
 
 ![Screenshot 2024-08-30 164717](https://github.com/user-attachments/assets/44b2fdf7-e6fa-470d-ad13-b5008db55c72)
 
